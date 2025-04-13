@@ -18,7 +18,7 @@ from transformers import (
 )
 
 # Конфигурация
-TOKEN = "YOUR_TOKEN"
+TOKEN = "8048883342:AAGJHnSuJRjpwOBGRx9NFyg4c1MUgqfI_II"
 
 # Жёсткие триггеры
 HARD_TRIGGERS = [
